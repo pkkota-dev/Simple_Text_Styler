@@ -1,0 +1,28 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+.toolbar {
+  margin-bottom: 10px;
+}
+
+.toolbar button {
+  margin-right: 5px;
+  padding: 5px 10px;
+}
+
+.toolbar select {
+  margin-right: 5px;
+  padding: 5px;
+}
+
+.editor {
+  border: 1px solid #ccc;
+  min-height: 200px;
+  padding: 10px;
+  text-align: left;
+  background-color: #fafafa;
+  overflow-wrap: break-word;
+}
